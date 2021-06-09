@@ -1,0 +1,4 @@
+﻿  UnitTest1.cpp
+C:\Users\zzzAzzz\Desktop\ALG labs\ALGSTRD1\Tree.cpp(312): warning C4715: Tree::find: значение возвращается не при всех путях выполнения
+     Создается библиотека C:\Users\zzzAzzz\Desktop\ALG labs\ALGSTRD1\Debug\UnitTest1.lib и объект C:\Users\zzzAzzz\Desktop\ALG labs\ALGSTRD1\Debug\UnitTest1.exp
+  UnitTest1.vcxproj -> C:\Users\zzzAzzz\Desktop\ALG labs\ALGSTRD1\Debug\UnitTest1.dll
